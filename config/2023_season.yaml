@@ -1,0 +1,56 @@
+
+races:
+  - Bahrain Grand Prix: [Sakhir International Circuit, Bahrain, Bahrain]
+  - Saudi Arabia Grand Prix: [Jeddah Corniche Circuit, Jeddah, Saudi Arabia]
+  - Australian Grand Prix: [Albert Park Street Circuit, Melbourne, Australia]
+  - Azerbaijan Grand Prix: [Baku City Circuit, Baku, Azerbaijan]
+  - Miami Grand Prix: [Miami International Autodrome, Miami, USA]
+  - Emilia-Romagna Grand Prix: [Dino & Enzo Ferrari Autodrome, Imola, Italy]
+  - Monaco Grand Prix: [Monaco Street Circuit]
+  - Spanish Grand Prix: [Barcelona-Catalunya Circuit]
+  - Canadian Grand Prix: [Gilles Villenueve Circuit, Montreal]
+  - Austrian Grand Prix: [Red Bull Ring, Spielberg, Austria]
+  - British Grand Prix: [Silverstone Circuit, Northamptonshire, England]
+  - Hungarian Grand Prix: [Hungaroring, Budapest, Hungary]
+  - Belgian Grand Prix: [Spa-Francorchamps Circuit, Spa, Belgium]
+  - Dutch Grand Prix: [Zandvoort Circuit, Zandvoort, Netherlands]
+  - Italian Grand Prix: [Monza National Autodrome, Monza, Italy]
+  - Singapore Grand Prix: [Marina Bay Street Circuit, Singapore]
+  - Japanese Grand Prix: [Suzuka International Racing Course, Suzuka, Japan]
+  - Qatar Grand Prix: [Lusail International Circuit, Lusail, Qatar]
+  - United States Grand Prix: [Circuit of the Americas, Austin, Texas]
+  - Mexico City Grand Prix: [Autdoromo Hermanos Rodríguez, Mexico City]
+  - Sao Paulo Grand Prix: [José Carlos Pace Autodrome, Sao Paolo, Brazil]
+  - Las Vegas Grand Prix: [Las Vegas Strip Street Circuit, Las Vegas]
+  - Abu Dhabi Grand Prix: [Yas Marina Circuit, Abu Dhabi, United Arab Emirates]
+teams:
+  - Alfa Romeo-Ferrari:
+    - Valtteri Bottas
+    - Zhou Guanyu
+  - AlphaTauri-Red Bull:
+    - Nyck de Vries
+    - Yuki Tsunoda
+  - Alpine-Renault:
+    - Esteban Ocon
+    - Peirre Gasly
+  - Aston Martin-Mercedes:
+    - Fernando Alonso
+    - Lance Stroll
+  - Ferrari:
+    - Charles Leclerc
+    - Carlos Sainz Jr.
+  - Haas-Ferrari:
+    - Kevin Magnussen
+    - Nico Hülkenberg
+  - McLaren-Mercedes:
+    - Oscar Piastri
+    - Lando Norris
+  - Mercedes:
+    - Lewis Hamilton
+    - George Russell
+  - Red Bull Racing:
+    - Sergio Perez
+    - Max Verstappen
+  - Williams-Mercedes:
+    - Alex Albon
+    - Logan Sargeant
