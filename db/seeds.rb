@@ -37,4 +37,5 @@ initial_data[:races].each.with_index do |races, index|
   )
 end
 
-AdminUser.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password') if Rails.env.development?
+AdminUser.create_with(password: 'password', password_confirmation: 'password')
+  .find_or_create_by(email: 'admin@example.com')
