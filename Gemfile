@@ -83,3 +83,5 @@ gem "activeadmin", "~> 2.14"
 gem "devise", "~> 4.9"
 
 gem "sass-rails", "~> 6.0"
+
+gem "dockerfile-rails", ">= 1.5", :group => :development
