@@ -20,4 +20,16 @@ namespace :fly do
   task :server => 'db:migrate' do
      sh 'bin/rails server'
   end
+
+  task :ssh do
+    sh 'fly ssh console --pty -C "sudo -iu rails"'
+  end
+
+  task :console do
+    sh 'fly ssh console --pty -C "/rails/bin/rails console"'
+  end
+
+  task :dbconsole do
+    sh 'fly ssh console --pty -C "/rails/bin/rails dbconsole"'
+  end
 end
